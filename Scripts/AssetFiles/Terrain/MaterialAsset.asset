@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e811f64432b4614ba5971c1f3c6b20c, type: 3}
+  m_Name: MaterialAsset
+  m_EditorClassIdentifier: 
+  guid: c9a4fc3eea494c5096618b10daa96b1b
+  assetType: SDG.Unturned.LandscapeMaterialAsset, Assembly-CSharp, Version=0.0.0.0,
+    Culture=neutral, PublicKeyToken=null
+  id: 0
+  textureAssetBundle: 
+  texturePath: 
+  maskAssetBundle: 
+  maskPath: 
+  physicsMaterial: FOLIAGE_STATIC
+  collection: {fileID: 0}
+  isUsingChristmasRedirect: 0
+  christmasRedirectGuid: 
